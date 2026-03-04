@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hold On & Believe (feat. The Federal Empire)",
+  "base_artist": "Martin Garrix",
+  "createdAt": "2026-03-04T03:59:21.469605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Hootie & The Blowfish",
+      "has_synced": true,
+      "path": "select/01_Hold_On_Hootie_&_The_Blowfish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Rosanne Cash",
+      "has_synced": false,
+      "path": "select/02_Hold_On_Rosanne_Cash.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hold on to Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/03_Hold_on_to_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Hold On",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/04_I_Hold_On_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Salt-N-Pepa",
+      "has_synced": false,
+      "path": "select/05_Hold_On_Salt-N-Pepa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hold On",
+      "artist": "Lil Tjay",
+      "has_synced": true,
+      "path": "select/06_Hold_On_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Help Me Hold On",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/08_Help_Me_Hold_On_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Help Me Hold On (2006 Remaster)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/09_Help_Me_Hold_On_(2006_Remaster)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Help Me Hold On (Remastered LP Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/10_Help_Me_Hold_On_(Remastered_LP_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love's Got a Hold On You",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/11_Love's_Got_a_Hold_On_You_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love's Got a Hold On You",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/12_Love's_Got_a_Hold_On_You_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We're Gonna Hold On",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/13_We're_Gonna_Hold_On_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We're Gonna Hold On (Album Version)",
+      "artist": "George Jones",
+      "has_synced": true,
+      "path": "select/14_We're_Gonna_Hold_On_(Album_Version)_George_Jones.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold On, We're Going Home",
+      "artist": "Majid Jordan feat. Drake",
+      "has_synced": true,
+      "path": "select/15_Hold_On,_We're_Going_Home_Majid_Jordan_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hold On, We're Going Home (Feat. Majid Jordan)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/16_Hold_On,_We're_Going_Home_(Feat._Majid_Jordan)_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hold On & Believe",
+      "artist": "Martin Garrix",
+      "has_synced": false,
+      "path": "select/pl_01_Hold_On_&_Believe_Martin_Garrix.txt"
+    }
+  ]
+}
